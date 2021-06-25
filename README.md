@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Sree.</h1>
-<img align="left" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/128118345/original/c776fd8433fd0870bd5534b04ce547a436ab68a8/do-something-i-am-at-aws-kubernetes-docker-terraform-ci-cd-linux.png" alt="skills" />
+<img align="left" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/128118345/original/c776fd8433fd0870bd5534b04ce547a436ab68a8/do-something-i-am-at-aws-kubernetes-docker-terraform-ci-cd-linux.png" alt="skills" width="950" 
+     height="450" />
+     
+&nbsp;
 
-
-<h3 align="center">I am a DevOps Cloud Engineer who enjoys finding solutions to problems and seeking out answers from different perspectives. I am passionate about improving efficiency and motivated by making things work for people. I strive to always learn more through communicating with others and working with a team.</h3>
-<hr>
-
+<p align="center">  I am a <b style="font-size:30px"> DevOps Cloud Engineer </b> who enjoys finding solutions to problems and seeking out answers from different perspectives. I am passionate about improving efficiency and motivated by making things work for people. I strive to always learn more through communicating with others and working with a team.</p> 
 
 <hr>
 
