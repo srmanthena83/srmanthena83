@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sree.</h1>
-<img align="left" src="https://media-exp1.licdn.com/dms/image/C5112AQEu7Dmc5XsVGg/article-cover_image-shrink_600_2000/0/1528710571665?e=1629936000&v=beta&t=yFnWds-LeMRr44Y2e04mt4RhjJEl21Zxccsiy9VJXEA" width="990" 
+<img align="left" src="https://www.pentalog.com/wp-content/uploads/2020/03/DevOps-engineer-job-roles-and-responsibilities.png" width="990" 
 height="480" />
      
 &nbsp;
