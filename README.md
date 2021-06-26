@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sree.</h1>
-<img align="left" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/128118345/original/c776fd8433fd0870bd5534b04ce547a436ab68a8/do-something-i-am-at-aws-kubernetes-docker-terraform-ci-cd-linux.png" alt="skills" width="990" 
-     height="480" />
+<img align="left" src="https://media-exp1.licdn.com/dms/image/C5112AQEu7Dmc5XsVGg/article-cover_image-shrink_600_2000/0/1528710571665?e=1629936000&v=beta&t=yFnWds-LeMRr44Y2e04mt4RhjJEl21Zxccsiy9VJXEA" width="990" 
+height="480" />
      
 &nbsp;
 
